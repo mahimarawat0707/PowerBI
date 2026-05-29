@@ -74,7 +74,6 @@ These KPIs provide quick insights into overall business performance.
 ---
 
 # Power Query Transformations Used
-
 The project heavily uses **Power Query** for data preprocessing and cleaning.
 
 ## Data Cleaning
