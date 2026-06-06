@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
 The **HR Analytics Dashboard** is an interactive Power BI dashboard designed to provide comprehensive insights into workforce performance, employee demographics, recruitment, attendance, payroll, training, and attrition metrics.
 
@@ -8,7 +8,7 @@ This dashboard enables HR managers and business leaders to make data-driven deci
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Monitor overall workforce statistics.
 - Analyze employee distribution across departments.
@@ -21,7 +21,7 @@ This dashboard enables HR managers and business leaders to make data-driven deci
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 ### 1. Executive KPI Summary
 Displays key HR metrics:
@@ -138,7 +138,7 @@ Recruitment Summary includes:
 
 ---
 
-## 🎛️ Interactive Filters
+## Interactive Filters
 
 The dashboard includes dynamic slicers for:
 
@@ -151,7 +151,7 @@ Users can drill down into specific workforce segments for detailed analysis.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
@@ -161,7 +161,7 @@ Users can drill down into specific workforce segments for detailed analysis.
 
 ---
 
-## 📈 Key Insights Generated
+## Key Insights Generated
 
 - Department-wise employee distribution.
 - Attrition trends and turnover analysis.
@@ -174,7 +174,7 @@ Users can drill down into specific workforce segments for detailed analysis.
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Predictive Attrition Analysis
 - Employee Satisfaction Dashboard
@@ -185,7 +185,7 @@ Users can drill down into specific workforce segments for detailed analysis.
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Mahima**
 
@@ -193,7 +193,7 @@ BCA Student | Data Analytics Enthusiast
 
 ---
 
-## ⭐ Project Highlights
+## Project Highlights
 
 ✔ HR Workforce Monitoring  
 ✔ Attrition Analysis  
