@@ -1,0 +1,151 @@
+Patient_ID,Age,Gender,BMI,Chronic_Disease,City,Insurance,Severity_Level,Symptoms
+P1001,58,Male,18.4,Hypertension,Chandigarh,Yes,Low,Headache
+P1002,66,Male,29.9,Hypertension,Jaipur,Yes,Low,Wheezing
+P1003,20,Male,31.1,None,Chandigarh,Yes,Medium,Breathlessness
+P1004,62,Male,29.6,None,Chandigarh,Yes,Medium,Migraine
+P1005,41,Male,35.0,Diabetes,Lucknow,No,Low,Fever
+P1006,25,Female,25.4,Asthma,Delhi,No,High,Chest Pain
+P1007,77,Male,28.2,Asthma,Delhi,Yes,Medium,Breathlessness
+P1008,77,Male,30.1,Asthma,Pune,No,High,Joint Pain
+P1009,33,Female,29.4,Diabetes,Lucknow,Yes,High,Fatigue
+P1010,69,Male,22.2,Diabetes,Lucknow,No,Low,Migraine
+P1011,72,Male,20.8,Asthma,Gurugram,Yes,Medium,Fever
+P1012,27,Male,23.0,None,Hyderabad,Yes,High,Wheezing
+P1013,56,Male,28.5,Asthma,Hyderabad,No,Medium,Cough
+P1014,26,Female,33.0,Diabetes,Pune,No,Low,Joint Pain
+P1015,63,Female,21.5,Hypertension,Lucknow,No,Medium,Fever
+P1016,52,Male,32.2,Diabetes,Noida,Yes,Low,Breathlessness
+P1017,77,Male,32.7,Diabetes,Noida,Yes,Low,Wheezing
+P1018,19,Male,24.8,Hypertension,Mumbai,No,Medium,Back Pain
+P1019,75,Male,22.3,Asthma,Delhi,Yes,Medium,Migraine
+P1020,61,Male,28.5,Hypertension,Noida,Yes,Medium,Breathlessness
+P1021,68,Male,29.2,Hypertension,Lucknow,No,Low,Cough
+P1022,59,Male,33.2,None,Noida,Yes,Low,Back Pain
+P1023,65,Female,25.7,Diabetes,Jaipur,No,High,Cough
+P1024,52,Female,25.1,Diabetes,Noida,No,High,Fever
+P1025,52,Male,26.3,Hypertension,Noida,No,Low,Migraine
+P1026,73,Female,21.1,Hypertension,Noida,No,Low,Joint Pain
+P1027,40,Male,29.1,None,Delhi,Yes,Low,Fever
+P1028,77,Female,27.8,Asthma,Noida,Yes,Low,Fatigue
+P1029,18,Female,32.0,None,Noida,No,High,Joint Pain
+P1030,33,Female,27.7,Asthma,Pune,Yes,Medium,Wheezing
+P1031,53,Male,29.7,Asthma,Gurugram,Yes,Low,Breathlessness
+P1032,25,Male,23.4,Diabetes,Chandigarh,Yes,High,Joint Pain
+P1033,62,Male,28.8,Asthma,Mumbai,Yes,High,Breathlessness
+P1034,33,Male,27.5,Asthma,Hyderabad,Yes,High,Migraine
+P1035,53,Male,20.7,Asthma,Gurugram,No,Medium,Fever
+P1036,30,Female,20.0,Diabetes,Bangalore,No,Low,Headache
+P1037,65,Female,28.3,None,Mumbai,Yes,High,Fatigue
+P1038,39,Female,29.4,Diabetes,Pune,No,High,Joint Pain
+P1039,41,Female,28.6,None,Chandigarh,No,High,Chest Pain
+P1040,59,Male,26.5,Hypertension,Lucknow,No,Medium,Joint Pain
+P1041,64,Female,32.2,Asthma,Bangalore,No,High,Joint Pain
+P1042,76,Female,24.6,Diabetes,Gurugram,Yes,Low,Back Pain
+P1043,62,Female,29.0,Hypertension,Lucknow,No,Medium,Joint Pain
+P1044,63,Male,25.5,Hypertension,Delhi,Yes,Medium,Fever
+P1045,47,Female,25.8,None,Gurugram,No,High,Back Pain
+P1046,72,Female,19.8,Asthma,Hyderabad,No,High,Breathlessness
+P1047,71,Female,31.2,Diabetes,Hyderabad,No,Low,Cough
+P1048,20,Female,30.5,None,Jaipur,No,High,Migraine
+P1049,73,Female,34.4,Hypertension,Mumbai,No,Low,Breathlessness
+P1050,32,Male,28.8,Asthma,Jaipur,No,Low,Chest Pain
+P1051,62,Female,28.0,Diabetes,Noida,Yes,Medium,Fatigue
+P1052,59,Female,19.0,Hypertension,Chandigarh,Yes,Medium,Headache
+P1053,18,Female,32.6,Diabetes,Bangalore,No,Low,Headache
+P1054,51,Male,30.7,Asthma,Gurugram,No,High,Fatigue
+P1055,72,Female,25.2,None,Gurugram,No,Low,Headache
+P1056,25,Male,25.3,Diabetes,Noida,No,Medium,Migraine
+P1057,41,Male,27.5,Hypertension,Mumbai,No,Medium,Migraine
+P1058,54,Male,31.7,None,Hyderabad,No,Low,Chest Pain
+P1059,80,Male,19.6,Diabetes,Noida,No,Medium,Wheezing
+P1060,44,Female,21.7,None,Pune,No,Low,Breathlessness
+P1061,18,Female,30.7,Diabetes,Bangalore,No,High,Cough
+P1062,54,Female,27.7,Asthma,Jaipur,Yes,Medium,Fever
+P1063,32,Female,31.2,None,Lucknow,Yes,High,Back Pain
+P1064,66,Female,29.6,Hypertension,Pune,Yes,Medium,Headache
+P1065,42,Female,27.9,None,Gurugram,Yes,Medium,Fatigue
+P1066,46,Male,24.2,Hypertension,Noida,No,Medium,Fatigue
+P1067,79,Male,23.7,Diabetes,Pune,No,High,Migraine
+P1068,29,Male,23.8,Asthma,Chandigarh,Yes,Low,Chest Pain
+P1069,64,Female,18.7,Hypertension,Chandigarh,No,High,Breathlessness
+P1070,46,Female,31.1,Asthma,Lucknow,No,Low,Cough
+P1071,71,Female,19.6,Diabetes,Gurugram,No,Low,Migraine
+P1072,39,Male,20.3,Hypertension,Gurugram,Yes,High,Joint Pain
+P1073,44,Female,19.1,Asthma,Hyderabad,Yes,High,Back Pain
+P1074,53,Male,24.6,Asthma,Delhi,No,Medium,Breathlessness
+P1075,26,Male,24.0,Hypertension,Bangalore,No,High,Joint Pain
+P1076,50,Female,34.8,Asthma,Jaipur,Yes,High,Cough
+P1077,69,Male,30.4,None,Noida,Yes,High,Breathlessness
+P1078,60,Female,24.2,Diabetes,Delhi,Yes,High,Joint Pain
+P1079,59,Female,22.2,None,Delhi,Yes,Medium,Back Pain
+P1080,69,Female,29.4,None,Lucknow,No,Medium,Chest Pain
+P1081,74,Male,19.1,Asthma,Gurugram,No,Medium,Fatigue
+P1082,27,Female,20.8,Hypertension,Chandigarh,No,High,Breathlessness
+P1083,71,Male,32.0,None,Mumbai,Yes,High,Fatigue
+P1084,47,Male,29.7,Diabetes,Gurugram,No,Medium,Joint Pain
+P1085,33,Male,19.6,Hypertension,Noida,No,Low,Chest Pain
+P1086,40,Male,18.9,Asthma,Hyderabad,No,Medium,Back Pain
+P1087,66,Female,32.0,None,Bangalore,Yes,Medium,Wheezing
+P1088,69,Female,26.8,Diabetes,Hyderabad,Yes,Medium,Fatigue
+P1089,80,Female,27.9,None,Hyderabad,No,Medium,Fatigue
+P1090,33,Male,27.7,None,Chandigarh,Yes,Medium,Wheezing
+P1091,79,Male,25.8,Hypertension,Lucknow,No,High,Breathlessness
+P1092,38,Female,23.9,Hypertension,Jaipur,Yes,High,Back Pain
+P1093,62,Female,20.3,Diabetes,Chandigarh,Yes,High,Back Pain
+P1094,80,Male,24.9,Asthma,Gurugram,Yes,Medium,Wheezing
+P1095,79,Female,32.9,None,Jaipur,Yes,Medium,Breathlessness
+P1096,59,Female,30.2,None,Pune,No,High,Cough
+P1097,66,Female,34.2,Hypertension,Hyderabad,Yes,Medium,Wheezing
+P1098,48,Male,25.7,Hypertension,Noida,No,High,Cough
+P1099,25,Male,30.2,Asthma,Mumbai,No,Low,Joint Pain
+P1100,40,Male,27.2,None,Mumbai,No,Low,Breathlessness
+P1101,51,Male,30.4,Diabetes,Delhi,Yes,Medium,Joint Pain
+P1102,20,Female,28.5,None,Chandigarh,Yes,Low,Headache
+P1103,54,Female,27.8,Hypertension,Chandigarh,No,Low,Back Pain
+P1104,44,Male,23.1,Diabetes,Lucknow,No,Low,Cough
+P1105,64,Male,18.9,Asthma,Hyderabad,Yes,Low,Cough
+P1106,63,Male,24.7,Diabetes,Lucknow,No,Medium,Migraine
+P1107,76,Male,24.3,Asthma,Delhi,Yes,High,Chest Pain
+P1108,49,Female,22.4,Asthma,Gurugram,No,Low,Wheezing
+P1109,63,Male,18.2,Asthma,Pune,Yes,High,Fatigue
+P1110,19,Female,31.7,Diabetes,Mumbai,Yes,High,Chest Pain
+P1111,23,Female,24.4,Asthma,Delhi,Yes,High,Chest Pain
+P1112,75,Male,21.0,Hypertension,Delhi,Yes,High,Chest Pain
+P1113,39,Female,30.8,Diabetes,Mumbai,No,Low,Headache
+P1114,42,Male,31.1,Hypertension,Chandigarh,Yes,Low,Breathlessness
+P1115,46,Female,19.8,None,Pune,Yes,High,Fatigue
+P1116,49,Male,19.1,Asthma,Jaipur,No,Medium,Joint Pain
+P1117,39,Female,31.9,Diabetes,Jaipur,No,High,Cough
+P1118,52,Male,29.6,None,Gurugram,Yes,Medium,Breathlessness
+P1119,43,Female,27.2,Hypertension,Lucknow,Yes,Low,Cough
+P1120,51,Male,25.6,Asthma,Gurugram,Yes,Medium,Fever
+P1121,38,Male,23.1,None,Delhi,No,High,Headache
+P1122,58,Male,21.2,Asthma,Noida,Yes,High,Fatigue
+P1123,34,Female,27.0,Hypertension,Hyderabad,No,High,Migraine
+P1124,29,Female,29.8,Asthma,Noida,Yes,High,Migraine
+P1125,30,Female,34.4,Asthma,Noida,No,Medium,Joint Pain
+P1126,70,Female,27.2,None,Gurugram,Yes,Medium,Headache
+P1127,25,Male,21.6,Hypertension,Hyderabad,No,Low,Fatigue
+P1128,36,Female,27.7,None,Bangalore,No,Low,Breathlessness
+P1129,68,Male,24.8,Hypertension,Pune,No,Medium,Wheezing
+P1130,71,Female,23.7,Diabetes,Hyderabad,No,Medium,Fever
+P1131,76,Male,33.0,Hypertension,Bangalore,No,Low,Wheezing
+P1132,55,Male,26.8,Asthma,Delhi,Yes,High,Wheezing
+P1133,27,Male,27.0,None,Hyderabad,Yes,Medium,Wheezing
+P1134,55,Female,24.0,Asthma,Pune,Yes,Low,Breathlessness
+P1135,74,Female,21.5,Diabetes,Noida,No,High,Fever
+P1136,26,Female,32.6,Asthma,Pune,Yes,Medium,Headache
+P1137,67,Female,25.2,Asthma,Mumbai,Yes,Medium,Headache
+P1138,47,Male,23.3,Diabetes,Mumbai,Yes,High,Chest Pain
+P1139,35,Male,31.1,None,Pune,No,Medium,Back Pain
+P1140,32,Male,18.7,None,Chandigarh,Yes,Medium,Wheezing
+P1141,38,Female,32.0,Hypertension,Mumbai,Yes,Low,Cough
+P1142,55,Female,35.0,Diabetes,Lucknow,Yes,Low,Fever
+P1143,42,Female,19.8,Diabetes,Noida,No,Low,Chest Pain
+P1144,45,Male,22.0,Hypertension,Pune,No,High,Wheezing
+P1145,37,Female,22.5,None,Mumbai,Yes,High,Breathlessness
+P1146,53,Male,19.6,None,Bangalore,Yes,Low,Fever
+P1147,22,Male,35.0,Diabetes,Gurugram,Yes,Low,Wheezing
+P1148,74,Male,18.6,Diabetes,Jaipur,No,Medium,Back Pain
+P1149,52,Male,34.8,Hypertension,Gurugram,No,Medium,Fatigue
+P1150,48,Female,31.0,Diabetes,Bangalore,Yes,Low,Cough
