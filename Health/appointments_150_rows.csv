@@ -1,0 +1,151 @@
+Appointment_ID,Patient_ID,Appointment_Day,Appointment_Month,Appointment_Status,Appointment_Type,Booking_to_Appointment_Days,Department,Doctor_Experience_Years,Hospital_Rating,Consultation_Fee,Medicine_Cost,Test_Cost,Total_Bill,Patient_Satisfaction_Score,Waiting_Time_Minutes
+A2001,P1001,Monday,October,Cancelled,New Visit,0,Cardiology,7,3.8,1192,3233,2533,6958,10,6
+A2002,P1002,Monday,June,Cancelled,Emergency,4,Cardiology,24,4.2,604,579,1856,3039,2,29
+A2003,P1003,Tuesday,June,Cancelled,New Visit,10,Pulmonology,23,4.9,964,2803,1794,5561,2,43
+A2004,P1004,Friday,December,Cancelled,New Visit,10,Orthopedics,13,4.8,774,471,1164,2409,8,14
+A2005,P1005,Saturday,March,No Show,Follow-up,9,Cardiology,13,4.1,1381,649,926,2956,8,38
+A2006,P1006,Sunday,November,Cancelled,Emergency,8,Endocrinology,7,3.7,1019,3938,735,5692,3,39
+A2007,P1007,Friday,February,Completed,Emergency,7,Cardiology,25,4.3,745,437,1286,2468,3,13
+A2008,P1008,Monday,June,Completed,Emergency,8,Neurology,19,3.8,623,1215,1220,3058,2,50
+A2009,P1009,Sunday,August,Cancelled,New Visit,1,Cardiology,22,4.1,1090,2136,1295,4521,7,31
+A2010,P1010,Tuesday,February,Cancelled,Emergency,1,Cardiology,21,5.0,687,1340,2194,4221,1,10
+A2011,P1011,Thursday,May,Cancelled,Follow-up,6,ICU,24,5.0,668,1752,308,2728,9,47
+A2012,P1012,Thursday,September,No Show,New Visit,0,Endocrinology,3,4.8,558,405,2692,3655,2,43
+A2013,P1013,Tuesday,May,Cancelled,New Visit,10,ICU,10,4.2,1185,3133,1586,5904,2,5
+A2014,P1014,Wednesday,October,No Show,Emergency,0,ICU,27,4.3,1353,2425,3181,6959,2,13
+A2015,P1015,Sunday,May,Completed,New Visit,5,Neurology,21,5.0,594,2798,2034,5426,3,52
+A2016,P1016,Wednesday,April,No Show,New Visit,10,Cardiology,12,4.7,873,3882,463,5218,7,44
+A2017,P1017,Sunday,December,Completed,Follow-up,2,ICU,4,4.1,1301,1886,3043,6230,1,59
+A2018,P1018,Wednesday,January,Completed,Follow-up,2,Endocrinology,9,3.6,909,2983,2496,6388,10,32
+A2019,P1019,Friday,June,No Show,New Visit,11,Pulmonology,17,4.0,571,2920,1652,5143,7,25
+A2020,P1020,Friday,November,Cancelled,Follow-up,7,Orthopedics,22,3.8,715,1960,2675,5350,8,55
+A2021,P1021,Sunday,April,Completed,New Visit,0,Neurology,16,4.4,1188,1471,1220,3879,2,34
+A2022,P1022,Tuesday,February,Cancelled,New Visit,12,Orthopedics,22,4.3,975,405,2583,3963,9,43
+A2023,P1023,Saturday,May,Completed,Follow-up,5,Pulmonology,29,4.3,781,2001,617,3399,3,14
+A2024,P1024,Friday,July,Cancelled,New Visit,5,Pulmonology,25,4.1,1377,3807,3435,8619,7,39
+A2025,P1025,Sunday,July,No Show,New Visit,13,Orthopedics,30,3.7,844,2939,3081,6864,10,39
+A2026,P1026,Thursday,May,Cancelled,Follow-up,13,Cardiology,16,3.5,834,1582,3417,5833,9,8
+A2027,P1027,Tuesday,August,No Show,New Visit,9,Neurology,15,4.5,1136,824,1277,3237,6,15
+A2028,P1028,Tuesday,February,No Show,Follow-up,13,ICU,20,4.7,1207,3602,2869,7678,10,55
+A2029,P1029,Tuesday,December,No Show,Emergency,4,Endocrinology,26,4.9,1224,826,2083,4133,8,34
+A2030,P1030,Wednesday,May,Cancelled,Follow-up,14,Endocrinology,23,4.8,686,2197,1168,4051,9,5
+A2031,P1031,Tuesday,May,No Show,Emergency,5,Orthopedics,18,4.3,726,1856,3133,5715,7,52
+A2032,P1032,Sunday,September,No Show,Follow-up,1,Neurology,10,3.8,783,3167,2714,6664,3,24
+A2033,P1033,Wednesday,March,Completed,Follow-up,13,Orthopedics,4,4.7,980,2160,2104,5244,7,36
+A2034,P1034,Wednesday,October,Cancelled,Follow-up,9,Endocrinology,2,4.4,961,3921,2113,6995,2,53
+A2035,P1035,Wednesday,December,Cancelled,New Visit,10,Neurology,30,3.9,737,1380,3195,5312,10,47
+A2036,P1036,Friday,December,No Show,Follow-up,7,Cardiology,15,4.5,561,879,1559,2999,7,22
+A2037,P1037,Saturday,May,No Show,New Visit,12,Neurology,16,4.3,1101,284,3432,4817,8,22
+A2038,P1038,Sunday,September,Completed,Follow-up,1,Pulmonology,9,4.0,795,2913,1940,5648,7,60
+A2039,P1039,Saturday,August,Completed,New Visit,10,Endocrinology,26,3.9,1449,1379,2094,4922,3,24
+A2040,P1040,Friday,March,Cancelled,New Visit,14,Endocrinology,17,4.6,983,1198,2170,4351,3,60
+A2041,P1041,Sunday,September,Cancelled,Follow-up,14,Pulmonology,28,3.8,853,1561,2560,4974,4,41
+A2042,P1042,Sunday,February,Cancelled,New Visit,8,Orthopedics,1,4.6,1488,2617,1659,5764,7,60
+A2043,P1043,Friday,February,Completed,Emergency,10,Pulmonology,8,4.6,1393,2416,447,4256,7,11
+A2044,P1044,Thursday,March,Completed,Emergency,6,Endocrinology,22,4.7,800,1668,1835,4303,3,16
+A2045,P1045,Wednesday,October,Cancelled,Emergency,6,ICU,9,4.2,661,502,2109,3272,5,17
+A2046,P1046,Sunday,November,Cancelled,Follow-up,0,Endocrinology,28,4.5,1216,1409,389,3014,1,43
+A2047,P1047,Sunday,December,No Show,Emergency,13,Neurology,21,3.6,1135,1226,3076,5437,1,24
+A2048,P1048,Sunday,September,Cancelled,Emergency,8,Pulmonology,27,3.7,679,1022,841,2542,8,56
+A2049,P1049,Wednesday,November,No Show,Emergency,4,Endocrinology,13,4.7,1049,706,2162,3917,6,11
+A2050,P1050,Thursday,February,Completed,New Visit,14,Endocrinology,5,4.1,546,352,1546,2444,6,47
+A2051,P1051,Saturday,June,Completed,Follow-up,7,Neurology,28,4.0,917,1345,434,2696,6,39
+A2052,P1052,Saturday,October,Completed,New Visit,12,Pulmonology,8,5.0,1178,1068,2928,5174,10,18
+A2053,P1053,Tuesday,January,Cancelled,New Visit,9,Pulmonology,1,3.8,1176,3748,405,5329,1,13
+A2054,P1054,Tuesday,October,Completed,Emergency,12,ICU,17,4.0,611,2051,2363,5025,1,8
+A2055,P1055,Monday,March,Cancelled,Emergency,10,Endocrinology,18,4.6,829,2691,907,4427,7,43
+A2056,P1056,Wednesday,July,Cancelled,Emergency,4,Pulmonology,5,4.5,925,3188,689,4802,8,9
+A2057,P1057,Monday,May,No Show,Follow-up,5,Cardiology,19,4.3,1388,3951,3253,8592,3,47
+A2058,P1058,Wednesday,June,Cancelled,New Visit,2,Neurology,19,4.5,779,3078,3422,7279,2,14
+A2059,P1059,Saturday,June,No Show,Emergency,1,Cardiology,5,3.7,661,1715,1576,3952,10,8
+A2060,P1060,Thursday,September,No Show,Follow-up,0,Neurology,13,5.0,1194,2979,2729,6902,1,5
+A2061,P1061,Sunday,June,Completed,Follow-up,13,ICU,2,4.2,1012,2488,3036,6536,8,9
+A2062,P1062,Sunday,October,Cancelled,Emergency,14,Pulmonology,3,4.2,1489,1530,1003,4022,2,20
+A2063,P1063,Wednesday,June,No Show,Emergency,13,Neurology,8,3.7,698,3910,3479,8087,5,17
+A2064,P1064,Wednesday,May,No Show,New Visit,5,Endocrinology,3,4.0,980,2011,2886,5877,8,7
+A2065,P1065,Monday,August,Completed,Follow-up,11,Cardiology,17,4.5,987,2253,917,4157,1,20
+A2066,P1066,Saturday,June,Completed,Follow-up,1,Endocrinology,22,4.1,553,3432,2884,6869,5,51
+A2067,P1067,Monday,May,No Show,Follow-up,10,Pulmonology,27,3.7,632,2637,3203,6472,9,10
+A2068,P1068,Friday,September,No Show,Emergency,0,ICU,11,4.8,579,1411,714,2704,10,13
+A2069,P1069,Tuesday,September,Completed,Follow-up,12,Orthopedics,29,4.8,1270,3266,2138,6674,6,48
+A2070,P1070,Sunday,May,Completed,Emergency,7,Pulmonology,18,4.9,1320,2676,866,4862,9,59
+A2071,P1071,Wednesday,April,Cancelled,New Visit,5,Neurology,1,4.0,554,1823,2356,4733,2,58
+A2072,P1072,Monday,January,Cancelled,New Visit,13,Neurology,18,4.9,959,2720,321,4000,10,38
+A2073,P1073,Tuesday,May,Cancelled,New Visit,9,Pulmonology,8,4.4,1088,1190,3243,5521,3,47
+A2074,P1074,Sunday,February,Cancelled,New Visit,11,ICU,21,3.7,1265,266,1762,3293,10,52
+A2075,P1075,Monday,December,Cancelled,New Visit,4,Neurology,2,4.7,1146,946,852,2944,1,25
+A2076,P1076,Monday,November,Cancelled,Follow-up,1,Pulmonology,14,4.8,792,1662,3498,5952,8,29
+A2077,P1077,Wednesday,November,Cancelled,Follow-up,7,Endocrinology,23,4.1,828,620,627,2075,8,27
+A2078,P1078,Tuesday,November,Cancelled,Follow-up,6,Endocrinology,2,4.4,535,717,575,1827,8,28
+A2079,P1079,Monday,May,Cancelled,Emergency,7,Neurology,20,3.9,896,3941,2600,7437,8,17
+A2080,P1080,Saturday,March,Cancelled,Emergency,3,Cardiology,7,4.7,1228,3106,3168,7502,4,55
+A2081,P1081,Saturday,February,Cancelled,Follow-up,10,Endocrinology,12,3.7,575,713,1598,2886,9,45
+A2082,P1082,Tuesday,November,No Show,Follow-up,2,ICU,10,4.4,1366,523,1326,3215,2,37
+A2083,P1083,Sunday,October,Cancelled,Emergency,10,Cardiology,16,4.8,771,2867,1163,4801,9,23
+A2084,P1084,Tuesday,June,No Show,Follow-up,11,Pulmonology,13,3.7,708,1593,2784,5085,6,37
+A2085,P1085,Saturday,June,Completed,New Visit,7,Endocrinology,15,4.2,1333,1541,2666,5540,5,36
+A2086,P1086,Thursday,March,Cancelled,Emergency,5,Orthopedics,12,3.6,508,3670,740,4918,1,41
+A2087,P1087,Wednesday,March,Completed,Emergency,8,Orthopedics,17,3.6,1313,1588,2584,5485,1,13
+A2088,P1088,Friday,December,Cancelled,Emergency,5,Endocrinology,27,4.3,826,865,1909,3600,8,50
+A2089,P1089,Monday,October,Cancelled,New Visit,8,ICU,24,4.4,1091,1132,3254,5477,7,14
+A2090,P1090,Saturday,April,Cancelled,Emergency,12,Endocrinology,30,4.2,928,820,1991,3739,1,50
+A2091,P1091,Tuesday,May,No Show,Follow-up,3,Pulmonology,25,3.9,1124,2183,1087,4394,4,49
+A2092,P1092,Sunday,June,Completed,Follow-up,0,Pulmonology,23,3.6,888,3869,1916,6673,8,46
+A2093,P1093,Monday,February,Cancelled,Follow-up,11,Orthopedics,4,4.5,731,2813,1253,4797,3,5
+A2094,P1094,Sunday,February,No Show,Emergency,3,Endocrinology,24,4.6,792,2845,542,4179,1,16
+A2095,P1095,Friday,August,Completed,Emergency,7,Pulmonology,7,4.7,965,2826,2525,6316,6,15
+A2096,P1096,Thursday,July,No Show,Follow-up,1,Orthopedics,22,3.6,679,2702,2916,6297,3,35
+A2097,P1097,Saturday,February,Cancelled,Follow-up,2,Orthopedics,22,4.3,1209,1167,554,2930,5,49
+A2098,P1098,Sunday,October,Completed,Emergency,7,Endocrinology,23,4.0,1280,1213,3086,5579,10,12
+A2099,P1099,Thursday,October,Completed,Emergency,7,ICU,26,4.0,635,2302,2001,4938,1,30
+A2100,P1100,Tuesday,November,No Show,Emergency,6,Pulmonology,29,4.1,918,937,3449,5304,7,29
+A2101,P1101,Thursday,September,Cancelled,New Visit,3,Orthopedics,12,3.7,1189,3145,2530,6864,4,51
+A2102,P1102,Friday,November,No Show,New Visit,3,ICU,2,4.1,1108,337,2128,3573,4,39
+A2103,P1103,Wednesday,January,No Show,Emergency,14,ICU,30,3.8,726,1893,1530,4149,7,40
+A2104,P1104,Tuesday,August,Completed,Emergency,6,Orthopedics,18,4.3,807,3712,3198,7717,7,20
+A2105,P1105,Saturday,November,No Show,New Visit,7,Neurology,28,4.9,1323,3319,2706,7348,5,5
+A2106,P1106,Wednesday,May,Cancelled,Follow-up,8,Orthopedics,15,3.6,977,2385,2957,6319,8,53
+A2107,P1107,Friday,October,No Show,Follow-up,4,Neurology,7,4.0,516,1268,2566,4350,7,41
+A2108,P1108,Friday,August,Completed,Emergency,10,Cardiology,17,3.6,673,773,3250,4696,2,57
+A2109,P1109,Thursday,January,Completed,Emergency,8,Orthopedics,1,3.5,1434,2179,3000,6613,5,39
+A2110,P1110,Friday,May,Cancelled,Follow-up,12,Orthopedics,3,4.1,746,986,2838,4570,7,34
+A2111,P1111,Saturday,June,No Show,New Visit,14,Endocrinology,30,3.6,584,2247,2077,4908,4,60
+A2112,P1112,Sunday,July,Completed,Follow-up,2,Endocrinology,8,4.4,1270,3561,3219,8050,7,48
+A2113,P1113,Wednesday,October,No Show,Emergency,6,Pulmonology,1,4.5,947,1150,611,2708,8,36
+A2114,P1114,Sunday,November,Completed,Emergency,6,Pulmonology,12,3.7,657,1756,3215,5628,1,24
+A2115,P1115,Monday,May,Cancelled,Follow-up,12,Cardiology,24,4.9,1303,1528,1877,4708,4,41
+A2116,P1116,Wednesday,April,No Show,Emergency,7,Endocrinology,20,3.8,1301,515,1779,3595,2,13
+A2117,P1117,Thursday,June,Cancelled,Emergency,11,ICU,16,5.0,990,1486,1027,3503,4,25
+A2118,P1118,Sunday,July,No Show,Follow-up,2,ICU,10,3.9,1351,3037,583,4971,3,50
+A2119,P1119,Tuesday,November,No Show,New Visit,9,ICU,22,4.5,1173,2922,1754,5849,6,55
+A2120,P1120,Thursday,February,Completed,Emergency,2,Pulmonology,10,4.0,994,628,1510,3132,4,38
+A2121,P1121,Saturday,April,No Show,New Visit,8,Neurology,11,4.3,1193,3477,973,5643,8,19
+A2122,P1122,Friday,July,Cancelled,New Visit,11,Neurology,7,3.9,1404,1008,2141,4553,2,41
+A2123,P1123,Wednesday,August,No Show,New Visit,13,ICU,23,4.7,1101,667,1725,3493,10,42
+A2124,P1124,Saturday,September,No Show,Emergency,14,Neurology,18,3.8,933,960,2293,4186,5,13
+A2125,P1125,Friday,January,Completed,Follow-up,0,Pulmonology,8,4.3,1000,885,638,2523,3,54
+A2126,P1126,Sunday,April,Cancelled,New Visit,7,Pulmonology,12,4.8,1253,3599,2977,7829,2,33
+A2127,P1127,Sunday,April,Completed,Emergency,5,Endocrinology,9,4.4,642,3414,1146,5202,3,25
+A2128,P1128,Saturday,March,Completed,New Visit,11,Pulmonology,27,3.9,1387,2886,819,5092,7,36
+A2129,P1129,Sunday,December,Completed,Emergency,7,ICU,22,4.5,1095,210,3470,4775,2,55
+A2130,P1130,Sunday,August,Completed,New Visit,14,Neurology,15,4.2,547,607,2864,4018,7,17
+A2131,P1131,Saturday,November,Completed,New Visit,6,ICU,10,4.6,756,537,1823,3116,4,32
+A2132,P1132,Saturday,March,Cancelled,New Visit,3,Orthopedics,3,4.6,1336,693,2029,4058,2,11
+A2133,P1133,Saturday,March,Cancelled,Emergency,10,Orthopedics,28,3.8,1239,1072,2872,5183,2,13
+A2134,P1134,Friday,October,No Show,Emergency,9,Pulmonology,25,4.9,1160,545,1316,3021,1,59
+A2135,P1135,Thursday,July,Completed,New Visit,7,ICU,20,3.6,1302,3877,1280,6459,1,28
+A2136,P1136,Monday,May,Completed,New Visit,14,Cardiology,26,4.1,517,2605,576,3698,5,45
+A2137,P1137,Tuesday,March,No Show,Follow-up,6,Endocrinology,21,4.6,817,523,2394,3734,2,24
+A2138,P1138,Thursday,June,No Show,Emergency,12,ICU,9,3.8,1218,246,971,2435,3,52
+A2139,P1139,Friday,November,Completed,Follow-up,7,Endocrinology,12,3.6,565,1277,3217,5059,10,15
+A2140,P1140,Tuesday,January,No Show,Emergency,11,ICU,14,3.8,892,3969,914,5775,4,31
+A2141,P1141,Thursday,February,Cancelled,Follow-up,12,Pulmonology,11,3.6,1323,2312,488,4123,8,5
+A2142,P1142,Tuesday,September,Cancelled,Emergency,13,ICU,29,3.5,1454,1879,397,3730,6,5
+A2143,P1143,Monday,April,No Show,Follow-up,11,Pulmonology,15,5.0,1228,1346,681,3255,2,42
+A2144,P1144,Tuesday,February,Completed,New Visit,12,Endocrinology,4,3.7,825,2054,1413,4292,3,33
+A2145,P1145,Friday,January,Completed,Follow-up,2,Cardiology,23,3.9,1346,3086,3154,7586,6,30
+A2146,P1146,Tuesday,April,Cancelled,Follow-up,10,ICU,21,3.6,1350,3398,1210,5958,10,21
+A2147,P1147,Monday,March,No Show,Follow-up,13,ICU,13,4.2,625,374,2188,3187,7,48
+A2148,P1148,Wednesday,July,Completed,Follow-up,3,ICU,29,4.7,990,449,659,2098,4,45
+A2149,P1149,Wednesday,March,Completed,Follow-up,9,Neurology,1,4.8,1014,1517,1890,4421,5,8
+A2150,P1150,Monday,April,No Show,Follow-up,5,Neurology,6,3.9,772,2385,3318,6475,6,56
