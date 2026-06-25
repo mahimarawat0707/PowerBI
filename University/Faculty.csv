@@ -1,0 +1,31 @@
+FacultyID,FacultyName,Department,Designation,ExperienceYears
+F001,Faculty_1,CSE,Associate Professor,2
+F002,Faculty_2,BBA,Assistant Professor,20
+F003,Faculty_3,ECE,Assistant Professor,6
+F004,Faculty_4,BCA,Assistant Professor,25
+F005,Faculty_5,MBA,Assistant Professor,14
+F006,Faculty_6,ECE,Associate Professor,12
+F007,Faculty_7,BBA,Associate Professor,11
+F008,Faculty_8,CSE,Professor,21
+F009,Faculty_9,BCA,Assistant Professor,6
+F010,Faculty_10,BBA,Professor,3
+F011,Faculty_11,BCA,Associate Professor,16
+F012,Faculty_12,ECE,Associate Professor,21
+F013,Faculty_13,ECE,Associate Professor,10
+F014,Faculty_14,BBA,Professor,5
+F015,Faculty_15,CSE,Associate Professor,5
+F016,Faculty_16,CSE,Professor,23
+F017,Faculty_17,MBA,Associate Professor,18
+F018,Faculty_18,CSE,Assistant Professor,9
+F019,Faculty_19,ECE,Professor,3
+F020,Faculty_20,BCA,Assistant Professor,11
+F021,Faculty_21,BBA,Assistant Professor,10
+F022,Faculty_22,CSE,Associate Professor,5
+F023,Faculty_23,BCA,Associate Professor,25
+F024,Faculty_24,ECE,Assistant Professor,6
+F025,Faculty_25,ECE,Professor,24
+F026,Faculty_26,BBA,Professor,19
+F027,Faculty_27,CSE,Assistant Professor,14
+F028,Faculty_28,BCA,Associate Professor,2
+F029,Faculty_29,ECE,Assistant Professor,12
+F030,Faculty_30,MBA,Associate Professor,20
